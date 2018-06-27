@@ -1,0 +1,36 @@
+mat-form-field {
+    width: 100%;
+}
+
+mat-card {
+    width: 20%;
+    margin: 5% auto;
+}
+
+button {
+    margin: 0 auto;
+    margin-top: 15px;
+    margin-left: 0px;
+}
+
+button:last-child:not(:first-of-type) {
+    margin-left: 10px;
+}
+
+mat-slide-toggle {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+mat-selection-list {
+    margin-bottom: 15px;
+}
+
+@media (max-width: 480px) {
+  
+    mat-card {
+        width: 90%;
+        margin: 5% auto;
+    }
+    
+}

@@ -1,0 +1,20 @@
+<div style='margin: 10px;'>
+  <mat-card>
+    <mat-card-title>Zpracování datové věty</mat-card-title>
+
+    <mat-card-subtitle>Program automaticky zpracuje datovou větu KOPIS LK.</mat-card-subtitle>
+
+    <mat-card-content>
+      <mat-form-field class="example-full-width">
+        <input matInput [(ngModel)]="message" placeholder="Datová věta">
+      </mat-form-field>
+
+      <mat-divider [inset]=true></mat-divider>
+      <mat-slide-toggle [(ngModel)]="allowSubmit">Povolit vyhlášení poplachu</mat-slide-toggle>
+      <mat-divider [inset]=true></mat-divider>
+
+      <button mat-raised-button (click)="submit()" [disabled]="!allowSubmit" color="warn">Vyhlásit poplach</button>
+      <button mat-raised-button (click)="submitTest()" color="none">Zkouška poplachu</button>
+    </mat-card-content>
+  </mat-card>
+</div>

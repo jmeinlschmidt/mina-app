@@ -1,0 +1,1397 @@
+{
+  "sftp://192.168.137.16:22@pi": {
+    "webapp": {
+      "sonar-project.properties": {
+        "type": "-",
+        "size": 631,
+        "lmtime": 0,
+        "modified": false
+      },
+      "package.json": {
+        "type": "-",
+        "size": 7979,
+        "lmtime": 0,
+        "modified": true
+      },
+      "Dockerfile": {
+        "type": "-",
+        "size": 1159,
+        "lmtime": 0,
+        "modified": false
+      },
+      ".travis.yml": {
+        "type": "-",
+        "size": 323,
+        "lmtime": 0,
+        "modified": false
+      },
+      "config": {},
+      "yarn.lock": {
+        "type": "-",
+        "size": 303139,
+        "lmtime": 0,
+        "modified": false
+      },
+      "protractor.conf.js": {
+        "type": "-",
+        "size": 144,
+        "lmtime": 0,
+        "modified": false
+      },
+      ".vscode": {},
+      "src": {},
+      "typedoc.json": {
+        "type": "-",
+        "size": 385,
+        "lmtime": 0,
+        "modified": false
+      },
+      "tslint.json": {
+        "type": "-",
+        "size": 1559,
+        "lmtime": 0,
+        "modified": false
+      },
+      "package-lock.json": {
+        "type": "-",
+        "size": 633130,
+        "lmtime": 0,
+        "modified": true
+      },
+      "webpack.config.js": {
+        "type": "-",
+        "size": 477,
+        "lmtime": 0,
+        "modified": false
+      },
+      "dist": {},
+      "firebase.json": {
+        "type": "-",
+        "size": 233,
+        "lmtime": 0,
+        "modified": false
+      },
+      ".dockerignore": {
+        "type": "-",
+        "size": 350,
+        "lmtime": 0,
+        "modified": false
+      },
+      "karma.conf.js": {
+        "type": "-",
+        "size": 127,
+        "lmtime": 0,
+        "modified": false
+      },
+      ".gitattributes": {
+        "type": "-",
+        "size": 16,
+        "lmtime": 0,
+        "modified": false
+      },
+      "README.md": {
+        "type": "-",
+        "size": 24874,
+        "lmtime": 0,
+        "modified": false
+      },
+      "tsconfig.json": {
+        "type": "-",
+        "size": 891,
+        "lmtime": 0,
+        "modified": false
+      },
+      ".nvmrc": {
+        "type": "-",
+        "size": 6,
+        "lmtime": 0,
+        "modified": false
+      },
+      "netlify.toml": {
+        "type": "-",
+        "size": 60,
+        "lmtime": 0,
+        "modified": false
+      },
+      "node_modules": {},
+      ".github": {},
+      "LICENSE": {
+        "type": "-",
+        "size": 1091,
+        "lmtime": 0,
+        "modified": false
+      },
+      "docker-compose.yml": {
+        "type": "-",
+        "size": 250,
+        "lmtime": 0,
+        "modified": false
+      },
+      "tsconfig.webpack.json": {
+        "type": "-",
+        "size": 835,
+        "lmtime": 0,
+        "modified": false
+      },
+      ".gitignore": {
+        "type": "-",
+        "size": 1005,
+        "lmtime": 0,
+        "modified": false
+      },
+      ".git": {},
+      ".editorconfig": {
+        "type": "-",
+        "size": 254,
+        "lmtime": 0,
+        "modified": false
+      }
+    },
+    "home": {
+      "pi": {
+        ".bashrc": {
+          "type": "-",
+          "size": 3523,
+          "lmtime": 0,
+          "modified": false
+        },
+        ".vimrc": {
+          "type": "-",
+          "size": 29,
+          "lmtime": 0,
+          "modified": false
+        },
+        "~": {},
+        "shairport-sync": {},
+        ".config": {},
+        ".bash_history": {
+          "type": "-",
+          "size": 5373,
+          "lmtime": 0,
+          "modified": false
+        },
+        ".bash_logout": {
+          "type": "-",
+          "size": 220,
+          "lmtime": 0,
+          "modified": false
+        },
+        ".npm": {},
+        "project": {},
+        ".node-gyp": {},
+        ".profile": {
+          "type": "-",
+          "size": 675,
+          "lmtime": 0,
+          "modified": false
+        },
+        "webapp": {
+          "sonar-project.properties": {
+            "type": "-",
+            "size": 631,
+            "lmtime": 1523188426614,
+            "modified": false
+          },
+          "package.json": {
+            "type": "-",
+            "size": 7979,
+            "lmtime": 1523637181155,
+            "modified": false
+          },
+          "Dockerfile": {
+            "type": "-",
+            "size": 1159,
+            "lmtime": 1523188426627,
+            "modified": false
+          },
+          ".travis.yml": {
+            "type": "-",
+            "size": 323,
+            "lmtime": 1523188426635,
+            "modified": false
+          },
+          "config": {
+            "build-utils.js": {
+              "type": "-",
+              "size": 3881,
+              "lmtime": 1523188427037,
+              "modified": false
+            },
+            "config.common.json": {
+              "type": "-",
+              "size": 313,
+              "lmtime": 1523188427011,
+              "modified": false
+            },
+            "config.dev.json": {
+              "type": "-",
+              "size": 248,
+              "lmtime": 1523188426985,
+              "modified": false
+            },
+            "config.prod.json": {
+              "type": "-",
+              "size": 276,
+              "lmtime": 1523188427001,
+              "modified": false
+            },
+            "empty.js": {
+              "type": "-",
+              "size": 278,
+              "lmtime": 1523188426956,
+              "modified": false
+            },
+            "github-deploy": {
+              "index.js": {
+                "type": "-",
+                "size": 2691,
+                "lmtime": 1523188427049,
+                "modified": false
+              }
+            },
+            "head-config.common.js": {
+              "type": "-",
+              "size": 2488,
+              "lmtime": 1523188427025,
+              "modified": false
+            },
+            "helpers.js": {
+              "type": "-",
+              "size": 630,
+              "lmtime": 1523188426968,
+              "modified": false
+            },
+            "html-elements-plugin": {
+              "index.js": {
+                "type": "-",
+                "size": 3405,
+                "lmtime": 1523188427042,
+                "modified": false
+              }
+            },
+            "karma.conf.js": {
+              "type": "-",
+              "size": 3995,
+              "lmtime": 1523188426996,
+              "modified": false
+            },
+            "nginx-custom.conf": {
+              "type": "-",
+              "size": 523,
+              "lmtime": 1523188426991,
+              "modified": false
+            },
+            "protractor.conf.js": {
+              "type": "-",
+              "size": 1020,
+              "lmtime": 1523188426962,
+              "modified": false
+            },
+            "resource-override.js": {
+              "type": "-",
+              "size": 0,
+              "lmtime": 1523188426950,
+              "modified": false
+            },
+            "spec-bundle.js": {
+              "type": "-",
+              "size": 2024,
+              "lmtime": 1523188426946,
+              "modified": false
+            },
+            "webpack.common.js": {
+              "type": "-",
+              "size": 10341,
+              "lmtime": 1523188427019,
+              "modified": false
+            },
+            "webpack.dev.js": {
+              "type": "-",
+              "size": 5100,
+              "lmtime": 1523572785844,
+              "modified": false
+            },
+            "webpack.github-deploy.js": {
+              "type": "-",
+              "size": 2829,
+              "lmtime": 1523188427031,
+              "modified": false
+            },
+            "webpack.prod.js": {
+              "type": "-",
+              "size": 5824,
+              "lmtime": 1523575620572,
+              "modified": false
+            },
+            "webpack.test.js": {
+              "type": "-",
+              "size": 6904,
+              "lmtime": 1523188426974,
+              "modified": false
+            }
+          },
+          "yarn.lock": {
+            "type": "-",
+            "size": 303139,
+            "lmtime": 1523188426713,
+            "modified": false
+          },
+          "protractor.conf.js": {
+            "type": "-",
+            "size": 144,
+            "lmtime": 1523188426719,
+            "modified": false
+          },
+          ".vscode": {},
+          "src": {
+            "assets": {
+              "manifest.json": {
+                "type": "-",
+                "size": 654,
+                "lmtime": 1523188427078,
+                "modified": false
+              },
+              "img": {
+                "tipe.png": {
+                  "type": "-",
+                  "size": 45881,
+                  "lmtime": 1523188427119,
+                  "modified": false
+                },
+                "angular.png": {
+                  "type": "-",
+                  "size": 18982,
+                  "lmtime": 1523188427128,
+                  "modified": false
+                }
+              },
+              "robots.txt": {
+                "type": "-",
+                "size": 31,
+                "lmtime": 1523188427084,
+                "modified": false
+              },
+              "humans.txt": {
+                "type": "-",
+                "size": 251,
+                "lmtime": 1523188427089,
+                "modified": false
+              },
+              "data.json": {
+                "type": "-",
+                "size": 30,
+                "lmtime": 1523188427098,
+                "modified": false
+              },
+              "service-worker.js": {
+                "type": "-",
+                "size": 44,
+                "lmtime": 1523188427105,
+                "modified": false
+              },
+              "css": {
+                ".gitkeep": {
+                  "type": "-",
+                  "size": 14,
+                  "lmtime": 1523188427133,
+                  "modified": false
+                }
+              },
+              "icon": {
+                "apple-icon-152x152.png": {
+                  "type": "-",
+                  "size": 8994,
+                  "lmtime": 1523188427139,
+                  "modified": false
+                },
+                "android-icon-144x144.png": {
+                  "type": "-",
+                  "size": 8433,
+                  "lmtime": 1523188427145,
+                  "modified": false
+                },
+                "apple-icon-60x60.png": {
+                  "type": "-",
+                  "size": 3564,
+                  "lmtime": 1523188427151,
+                  "modified": false
+                },
+                "apple-icon-57x57.png": {
+                  "type": "-",
+                  "size": 3404,
+                  "lmtime": 1523188427193,
+                  "modified": false
+                },
+                "apple-icon.png": {
+                  "type": "-",
+                  "size": 10290,
+                  "lmtime": 1523188427200,
+                  "modified": false
+                },
+                "favicon.ico": {
+                  "type": "-",
+                  "size": 1150,
+                  "lmtime": 1523188427206,
+                  "modified": false
+                },
+                "android-icon-96x96.png": {
+                  "type": "-",
+                  "size": 5597,
+                  "lmtime": 1523188427212,
+                  "modified": false
+                },
+                "apple-icon-72x72.png": {
+                  "type": "-",
+                  "size": 4234,
+                  "lmtime": 1523188427218,
+                  "modified": false
+                },
+                "android-icon-192x192.png": {
+                  "type": "-",
+                  "size": 9714,
+                  "lmtime": 1523188427224,
+                  "modified": false
+                },
+                "ms-icon-70x70.png": {
+                  "type": "-",
+                  "size": 4124,
+                  "lmtime": 1523188427230,
+                  "modified": false
+                },
+                "apple-icon-precomposed.png": {
+                  "type": "-",
+                  "size": 10290,
+                  "lmtime": 1523188427238,
+                  "modified": false
+                },
+                "android-icon-36x36.png": {
+                  "type": "-",
+                  "size": 2302,
+                  "lmtime": 1523188427243,
+                  "modified": false
+                },
+                "apple-icon-144x144.png": {
+                  "type": "-",
+                  "size": 8433,
+                  "lmtime": 1523188427249,
+                  "modified": false
+                },
+                "browserconfig.xml": {
+                  "type": "-",
+                  "size": 281,
+                  "lmtime": 1523188427253,
+                  "modified": false
+                },
+                "ms-icon-150x150.png": {
+                  "type": "-",
+                  "size": 8878,
+                  "lmtime": 1523188427261,
+                  "modified": false
+                },
+                "favicon-96x96.png": {
+                  "type": "-",
+                  "size": 5597,
+                  "lmtime": 1523188427268,
+                  "modified": false
+                },
+                "android-icon-48x48.png": {
+                  "type": "-",
+                  "size": 2925,
+                  "lmtime": 1523188427274,
+                  "modified": false
+                },
+                "apple-icon-76x76.png": {
+                  "type": "-",
+                  "size": 4463,
+                  "lmtime": 1523188427280,
+                  "modified": false
+                },
+                "favicon-32x32.png": {
+                  "type": "-",
+                  "size": 2066,
+                  "lmtime": 1523188427285,
+                  "modified": false
+                },
+                "favicon-16x16.png": {
+                  "type": "-",
+                  "size": 1523,
+                  "lmtime": 1523188427289,
+                  "modified": false
+                },
+                "apple-icon-114x114.png": {
+                  "type": "-",
+                  "size": 6552,
+                  "lmtime": 1523188427295,
+                  "modified": false
+                },
+                "apple-icon-120x120.png": {
+                  "type": "-",
+                  "size": 6924,
+                  "lmtime": 1523188427302,
+                  "modified": false
+                },
+                "android-icon-72x72.png": {
+                  "type": "-",
+                  "size": 4234,
+                  "lmtime": 1523188427307,
+                  "modified": false
+                },
+                "ms-icon-144x144.png": {
+                  "type": "-",
+                  "size": 8433,
+                  "lmtime": 1523188427315,
+                  "modified": false
+                },
+                "ms-icon-310x310.png": {
+                  "type": "-",
+                  "size": 24136,
+                  "lmtime": 1523188427323,
+                  "modified": false
+                },
+                "apple-icon-180x180.png": {
+                  "type": "-",
+                  "size": 10999,
+                  "lmtime": 1523188427331,
+                  "modified": false
+                }
+              },
+              "mock-data": {
+                "mock-data.json": {
+                  "type": "-",
+                  "size": 22,
+                  "lmtime": 1523188427337,
+                  "modified": false
+                }
+              }
+            },
+            "meta": {
+              "robots.txt": {
+                "type": "-",
+                "size": 31,
+                "lmtime": 1523188427343,
+                "modified": false
+              },
+              "humans.txt": {
+                "type": "-",
+                "size": 251,
+                "lmtime": 1523188427349,
+                "modified": false
+              }
+            },
+            "main.browser.ts": {
+              "type": "-",
+              "size": 926,
+              "lmtime": 1523531636055,
+              "modified": false
+            },
+            "custom-typings.d.ts": {
+              "type": "-",
+              "size": 4281,
+              "lmtime": 1523188427060,
+              "modified": false
+            },
+            "index.html": {
+              "type": "-",
+              "size": 2240,
+              "lmtime": 1523533153980,
+              "modified": false
+            },
+            "styles": {
+              "headings.css": {
+                "type": "-",
+                "size": 24,
+                "lmtime": 1523188427354,
+                "modified": false
+              },
+              "_variables.scss": {
+                "type": "-",
+                "size": 27,
+                "lmtime": 1523188427358,
+                "modified": false
+              },
+              "styles.scss": {
+                "type": "-",
+                "size": 398,
+                "lmtime": 1523188427362,
+                "modified": false
+              }
+            },
+            "environments": {
+              "environment.ts": {
+                "type": "-",
+                "size": 953,
+                "lmtime": 1523188427368,
+                "modified": false
+              },
+              "environment.e2e.prod.ts": {
+                "type": "-",
+                "size": 662,
+                "lmtime": 1523188427373,
+                "modified": false
+              },
+              "environment.prod.ts": {
+                "type": "-",
+                "size": 663,
+                "lmtime": 1523188427380,
+                "modified": false
+              },
+              "model.ts": {
+                "type": "-",
+                "size": 215,
+                "lmtime": 1523188427384,
+                "modified": false
+              }
+            },
+            "app": {
+              "app.component.spec.ts": {
+                "type": "-",
+                "size": 1437,
+                "lmtime": 1523188427389,
+                "modified": false
+              },
+              "+barrel": {
+                "index.ts": {
+                  "type": "-",
+                  "size": 48,
+                  "lmtime": 1523188427439,
+                  "modified": false
+                },
+                "barrel.module.ts": {
+                  "type": "-",
+                  "size": 601,
+                  "lmtime": 1523188427444,
+                  "modified": false
+                },
+                "barrel.routes.ts": {
+                  "type": "-",
+                  "size": 240,
+                  "lmtime": 1523188427449,
+                  "modified": false
+                },
+                "barrel.component.ts": {
+                  "type": "-",
+                  "size": 678,
+                  "lmtime": 1523188427454,
+                  "modified": false
+                },
+                "+child-barrel": {
+                  "child-barrel.component.ts": {
+                    "type": "-",
+                    "size": 568,
+                    "lmtime": 1523188427460,
+                    "modified": false
+                  },
+                  "index.ts": {
+                    "type": "-",
+                    "size": 59,
+                    "lmtime": 1523188427471,
+                    "modified": false
+                  },
+                  "child-barrel.routes.ts": {
+                    "type": "-",
+                    "size": 162,
+                    "lmtime": 1523188427479,
+                    "modified": false
+                  },
+                  "child-barrel.module.ts": {
+                    "type": "-",
+                    "size": 633,
+                    "lmtime": 1523188427487,
+                    "modified": false
+                  }
+                }
+              },
+              "app.module.ts": {
+                "type": "-",
+                "size": 2897,
+                "lmtime": 1523570740135,
+                "modified": false
+              },
+              "no-content": {
+                "no-content.component.ts": {
+                  "type": "-",
+                  "size": 195,
+                  "lmtime": 1523188427494,
+                  "modified": false
+                },
+                "index.ts": {
+                  "type": "-",
+                  "size": 40,
+                  "lmtime": 1523188427503,
+                  "modified": false
+                }
+              },
+              "+dev-module": {
+                "index.ts": {
+                  "type": "-",
+                  "size": 55,
+                  "lmtime": 1523188427511,
+                  "modified": false
+                },
+                "dev-module.component.ts": {
+                  "type": "-",
+                  "size": 287,
+                  "lmtime": 1523188427521,
+                  "modified": false
+                },
+                "dev-module.module.ts": {
+                  "type": "-",
+                  "size": 669,
+                  "lmtime": 1523188427526,
+                  "modified": false
+                },
+                "dev-module.routes.ts": {
+                  "type": "-",
+                  "size": 145,
+                  "lmtime": 1523188427531,
+                  "modified": false
+                }
+              },
+              "index.ts": {
+                "type": "-",
+                "size": 45,
+                "lmtime": 1523188427401,
+                "modified": false
+              },
+              "app.resolver.ts": {
+                "type": "-",
+                "size": 480,
+                "lmtime": 1523188427406,
+                "modified": false
+              },
+              "app.component.ts": {
+                "type": "-",
+                "size": 2533,
+                "lmtime": 1523529849180,
+                "modified": false
+              },
+              "home": {
+                "home.component.ts": {
+                  "type": "-",
+                  "size": 2441,
+                  "lmtime": 1523645035336,
+                  "modified": false
+                },
+                "home.component.html": {
+                  "type": "-",
+                  "size": 2263,
+                  "lmtime": 1523571605544,
+                  "modified": false
+                },
+                "home.component.css": {
+                  "type": "-",
+                  "size": 486,
+                  "lmtime": 1523566352246,
+                  "modified": false
+                },
+                "index.ts": {
+                  "type": "-",
+                  "size": 34,
+                  "lmtime": 1523188427557,
+                  "modified": false
+                },
+                "home.component.spec.ts": {
+                  "type": "-",
+                  "size": 1750,
+                  "lmtime": 1523188427565,
+                  "modified": false
+                },
+                "home.e2e.ts": {
+                  "type": "-",
+                  "size": 690,
+                  "lmtime": 1523188427570,
+                  "modified": false
+                }
+              },
+              "+detail": {
+                "detail.module.ts": {
+                  "type": "-",
+                  "size": 601,
+                  "lmtime": 1523188427621,
+                  "modified": false
+                },
+                "index.ts": {
+                  "type": "-",
+                  "size": 48,
+                  "lmtime": 1523188427626,
+                  "modified": false
+                },
+                "+child-detail": {
+                  "child-detail.routes.ts": {
+                    "type": "-",
+                    "size": 162,
+                    "lmtime": 1523188427651,
+                    "modified": false
+                  },
+                  "index.ts": {
+                    "type": "-",
+                    "size": 59,
+                    "lmtime": 1523188427656,
+                    "modified": false
+                  },
+                  "child-detail.component.ts": {
+                    "type": "-",
+                    "size": 568,
+                    "lmtime": 1523188427668,
+                    "modified": false
+                  },
+                  "child-detail.module.ts": {
+                    "type": "-",
+                    "size": 633,
+                    "lmtime": 1523188427677,
+                    "modified": false
+                  }
+                },
+                "detail.routes.ts": {
+                  "type": "-",
+                  "size": 240,
+                  "lmtime": 1523188427634,
+                  "modified": false
+                },
+                "detail.component.ts": {
+                  "type": "-",
+                  "size": 678,
+                  "lmtime": 1523188427643,
+                  "modified": false
+                }
+              },
+              "app.component.css": {
+                "type": "-",
+                "size": 558,
+                "lmtime": 1523570872582,
+                "modified": false
+              },
+              "app.service.ts": {
+                "type": "-",
+                "size": 923,
+                "lmtime": 1523188427423,
+                "modified": false
+              },
+              "about": {
+                "about.component.ts": {
+                  "type": "-",
+                  "size": 1479,
+                  "lmtime": 1523645047253,
+                  "modified": false
+                },
+                "about.component.css": {
+                  "type": "-",
+                  "size": 486,
+                  "lmtime": 1523569833701,
+                  "modified": false
+                },
+                "about.component.spec.ts": {
+                  "type": "-",
+                  "size": 983,
+                  "lmtime": 1523188427691,
+                  "modified": false
+                },
+                "about.component.html": {
+                  "type": "-",
+                  "size": 826,
+                  "lmtime": 1523574612905,
+                  "modified": false
+                },
+                "index.ts": {
+                  "type": "-",
+                  "size": 35,
+                  "lmtime": 1523188427697,
+                  "modified": false
+                }
+              },
+              "app.routes.ts": {
+                "type": "-",
+                "size": 525,
+                "lmtime": 1523569742110,
+                "modified": false
+              },
+              "app.e2e.ts": {
+                "type": "-",
+                "size": 890,
+                "lmtime": 1523188427435,
+                "modified": false
+              }
+            },
+            "polyfills.browser.ts": {
+              "type": "-",
+              "size": 2659,
+              "lmtime": 1523532692877,
+              "modified": false
+            }
+          },
+          "typedoc.json": {
+            "type": "-",
+            "size": 385,
+            "lmtime": 1523188426729,
+            "modified": false
+          },
+          "tslint.json": {
+            "type": "-",
+            "size": 1559,
+            "lmtime": 1523188426735,
+            "modified": false
+          },
+          "package-lock.json": {
+            "type": "-",
+            "size": 633130,
+            "lmtime": 1523531737222,
+            "modified": false
+          },
+          "webpack.config.js": {
+            "type": "-",
+            "size": 477,
+            "lmtime": 1523188426864,
+            "modified": false
+          },
+          "dist": {
+            "inline.ab3b40d80fcb95016251.bundle.js.map": {
+              "type": "-",
+              "size": 7896,
+              "lmtime": 1523645168472,
+              "modified": false
+            },
+            "assets": {
+              "manifest.json": {
+                "type": "-",
+                "size": 654,
+                "lmtime": 1523645168499,
+                "modified": false
+              },
+              "img": {
+                "tipe.png": {
+                  "type": "-",
+                  "size": 45881,
+                  "lmtime": 1523645168500,
+                  "modified": false
+                },
+                "angular.png": {
+                  "type": "-",
+                  "size": 18982,
+                  "lmtime": 1523645168482,
+                  "modified": false
+                }
+              },
+              "robots.txt": {
+                "type": "-",
+                "size": 31,
+                "lmtime": 1523645168499,
+                "modified": false
+              },
+              "humans.txt": {
+                "type": "-",
+                "size": 251,
+                "lmtime": 1523645168495,
+                "modified": false
+              },
+              "data.json": {
+                "type": "-",
+                "size": 30,
+                "lmtime": 1523645168482,
+                "modified": false
+              },
+              "service-worker.js": {
+                "type": "-",
+                "size": 44,
+                "lmtime": 1523645168499,
+                "modified": false
+              },
+              "css": {
+                ".gitkeep": {
+                  "type": "-",
+                  "size": 14,
+                  "lmtime": 1523645168501,
+                  "modified": false
+                }
+              },
+              "icon": {
+                "apple-icon-152x152.png": {
+                  "type": "-",
+                  "size": 8994,
+                  "lmtime": 1523645168500,
+                  "modified": false
+                },
+                "android-icon-144x144.png": {
+                  "type": "-",
+                  "size": 8433,
+                  "lmtime": 1523645168482,
+                  "modified": false
+                },
+                "apple-icon-60x60.png": {
+                  "type": "-",
+                  "size": 3564,
+                  "lmtime": 1523645168494,
+                  "modified": false
+                },
+                "apple-icon-57x57.png": {
+                  "type": "-",
+                  "size": 3404,
+                  "lmtime": 1523645168498,
+                  "modified": false
+                },
+                "apple-icon.png": {
+                  "type": "-",
+                  "size": 10290,
+                  "lmtime": 1523645168495,
+                  "modified": false
+                },
+                "favicon.ico": {
+                  "type": "-",
+                  "size": 1150,
+                  "lmtime": 1523645168496,
+                  "modified": false
+                },
+                "android-icon-96x96.png": {
+                  "type": "-",
+                  "size": 5597,
+                  "lmtime": 1523645168493,
+                  "modified": false
+                },
+                "apple-icon-72x72.png": {
+                  "type": "-",
+                  "size": 4234,
+                  "lmtime": 1523645168500,
+                  "modified": false
+                },
+                "android-icon-192x192.png": {
+                  "type": "-",
+                  "size": 9714,
+                  "lmtime": 1523645168492,
+                  "modified": false
+                },
+                "ms-icon-70x70.png": {
+                  "type": "-",
+                  "size": 4124,
+                  "lmtime": 1523645168497,
+                  "modified": false
+                },
+                "apple-icon-precomposed.png": {
+                  "type": "-",
+                  "size": 10290,
+                  "lmtime": 1523645168495,
+                  "modified": false
+                },
+                "android-icon-36x36.png": {
+                  "type": "-",
+                  "size": 2302,
+                  "lmtime": 1523645168494,
+                  "modified": false
+                },
+                "apple-icon-144x144.png": {
+                  "type": "-",
+                  "size": 8433,
+                  "lmtime": 1523645168493,
+                  "modified": false
+                },
+                "browserconfig.xml": {
+                  "type": "-",
+                  "size": 281,
+                  "lmtime": 1523645168494,
+                  "modified": false
+                },
+                "ms-icon-150x150.png": {
+                  "type": "-",
+                  "size": 8878,
+                  "lmtime": 1523645168497,
+                  "modified": false
+                },
+                "favicon-96x96.png": {
+                  "type": "-",
+                  "size": 5597,
+                  "lmtime": 1523645168497,
+                  "modified": false
+                },
+                "android-icon-48x48.png": {
+                  "type": "-",
+                  "size": 2925,
+                  "lmtime": 1523645168497,
+                  "modified": false
+                },
+                "apple-icon-76x76.png": {
+                  "type": "-",
+                  "size": 4463,
+                  "lmtime": 1523645168495,
+                  "modified": false
+                },
+                "favicon-32x32.png": {
+                  "type": "-",
+                  "size": 2066,
+                  "lmtime": 1523645168496,
+                  "modified": false
+                },
+                "favicon-16x16.png": {
+                  "type": "-",
+                  "size": 1523,
+                  "lmtime": 1523645168496,
+                  "modified": false
+                },
+                "apple-icon-114x114.png": {
+                  "type": "-",
+                  "size": 6552,
+                  "lmtime": 1523645168493,
+                  "modified": false
+                },
+                "apple-icon-120x120.png": {
+                  "type": "-",
+                  "size": 6924,
+                  "lmtime": 1523645168492,
+                  "modified": false
+                },
+                "android-icon-72x72.png": {
+                  "type": "-",
+                  "size": 4234,
+                  "lmtime": 1523645168492,
+                  "modified": false
+                },
+                "ms-icon-144x144.png": {
+                  "type": "-",
+                  "size": 8433,
+                  "lmtime": 1523645168497,
+                  "modified": false
+                },
+                "ms-icon-310x310.png": {
+                  "type": "-",
+                  "size": 24136,
+                  "lmtime": 1523645168497,
+                  "modified": false
+                },
+                "apple-icon-180x180.png": {
+                  "type": "-",
+                  "size": 10999,
+                  "lmtime": 1523645168493,
+                  "modified": false
+                }
+              }
+            },
+            "3.c74fd5fb34e92dc9b71c.chunk.js": {
+              "type": "-",
+              "size": 785,
+              "lmtime": 1523645168472,
+              "modified": false
+            },
+            "3.c74fd5fb34e92dc9b71c.chunk.js.map": {
+              "type": "-",
+              "size": 2697,
+              "lmtime": 1523645168472,
+              "modified": false
+            },
+            "robots.txt": {
+              "type": "-",
+              "size": 31,
+              "lmtime": 1523645168472,
+              "modified": false
+            },
+            "main.fce37c83e5bf7c9345ce34012cd91a08.css.map": {
+              "type": "-",
+              "size": 129,
+              "lmtime": 1523645168472,
+              "modified": false
+            },
+            "main.fce37c83e5bf7c9345ce34012cd91a08.css": {
+              "type": "-",
+              "size": 459,
+              "lmtime": 1523645168472,
+              "modified": false
+            },
+            "0.6b83acae59bce07dcb62.chunk.js.map": {
+              "type": "-",
+              "size": 2755,
+              "lmtime": 1523645168472,
+              "modified": false
+            },
+            "inline.ab3b40d80fcb95016251.bundle.js": {
+              "type": "-",
+              "size": 1542,
+              "lmtime": 1523645168472,
+              "modified": false
+            },
+            "humans.txt": {
+              "type": "-",
+              "size": 251,
+              "lmtime": 1523645168472,
+              "modified": false
+            },
+            "index.html": {
+              "type": "-",
+              "size": 3585,
+              "lmtime": 1523645168482,
+              "modified": false
+            },
+            "2.c132cea97c99d91ebb32.chunk.js": {
+              "type": "-",
+              "size": 971,
+              "lmtime": 1523645168472,
+              "modified": false
+            },
+            "polyfills.34dcafd0e621bf1bb041.bundle.js.map": {
+              "type": "-",
+              "size": 307147,
+              "lmtime": 1523645168472,
+              "modified": false
+            },
+            "1.42b065a8845d71ad8a4e.chunk.js.map": {
+              "type": "-",
+              "size": 2697,
+              "lmtime": 1523645168472,
+              "modified": false
+            },
+            "main.9ffe1cdf5421102479ad.bundle.js.map": {
+              "type": "-",
+              "size": 7122824,
+              "lmtime": 1523575744659,
+              "modified": false
+            },
+            "1.42b065a8845d71ad8a4e.chunk.js": {
+              "type": "-",
+              "size": 783,
+              "lmtime": 1523645168472,
+              "modified": false
+            },
+            "2.c132cea97c99d91ebb32.chunk.js.map": {
+              "type": "-",
+              "size": 2755,
+              "lmtime": 1523645168472,
+              "modified": false
+            },
+            "polyfills.34dcafd0e621bf1bb041.bundle.js": {
+              "type": "-",
+              "size": 64325,
+              "lmtime": 1523645168472,
+              "modified": false
+            },
+            "main.9ffe1cdf5421102479ad.bundle.js": {
+              "type": "-",
+              "size": 1539633,
+              "lmtime": 1523575744659,
+              "modified": false
+            },
+            "main.1424b2b279d29d42950f.bundle.js.map": {
+              "type": "-",
+              "size": 7122834,
+              "lmtime": 1523645168482,
+              "modified": false
+            },
+            "0.6b83acae59bce07dcb62.chunk.js": {
+              "type": "-",
+              "size": 971,
+              "lmtime": 1523645168472,
+              "modified": false
+            },
+            "main.1424b2b279d29d42950f.bundle.js": {
+              "type": "-",
+              "size": 1539643,
+              "lmtime": 1523645168472,
+              "modified": false
+            }
+          },
+          "firebase.json": {
+            "type": "-",
+            "size": 233,
+            "lmtime": 1523188426869,
+            "modified": false
+          },
+          ".dockerignore": {
+            "type": "-",
+            "size": 350,
+            "lmtime": 1523188426874,
+            "modified": false
+          },
+          "karma.conf.js": {
+            "type": "-",
+            "size": 127,
+            "lmtime": 1523188426878,
+            "modified": false
+          },
+          ".gitattributes": {
+            "type": "-",
+            "size": 16,
+            "lmtime": 1523188426884,
+            "modified": false
+          },
+          "README.md": {
+            "type": "-",
+            "size": 24874,
+            "lmtime": 1523188426894,
+            "modified": false
+          },
+          "tsconfig.json": {
+            "type": "-",
+            "size": 891,
+            "lmtime": 1523188426900,
+            "modified": false
+          },
+          ".nvmrc": {
+            "type": "-",
+            "size": 6,
+            "lmtime": 1523188426907,
+            "modified": false
+          },
+          "netlify.toml": {
+            "type": "-",
+            "size": 60,
+            "lmtime": 1523188426914,
+            "modified": false
+          },
+          "node_modules": {},
+          ".github": {
+            "CONTRIBUTING.md": {
+              "type": "-",
+              "size": 516,
+              "lmtime": 1523188427702,
+              "modified": false
+            },
+            "ISSUE_TEMPLATE.md": {
+              "type": "-",
+              "size": 1172,
+              "lmtime": 1523188427707,
+              "modified": false
+            },
+            "PULL_REQUEST_TEMPLATE.md": {
+              "type": "-",
+              "size": 261,
+              "lmtime": 1523188427714,
+              "modified": false
+            }
+          },
+          "LICENSE": {
+            "type": "-",
+            "size": 1091,
+            "lmtime": 1523188426919,
+            "modified": false
+          },
+          "docker-compose.yml": {
+            "type": "-",
+            "size": 250,
+            "lmtime": 1523188426924,
+            "modified": false
+          },
+          "tsconfig.webpack.json": {
+            "type": "-",
+            "size": 835,
+            "lmtime": 1523188426931,
+            "modified": false
+          },
+          ".gitignore": {
+            "type": "-",
+            "size": 1005,
+            "lmtime": 1523188426936,
+            "modified": false
+          },
+          ".git": {},
+          ".editorconfig": {
+            "type": "-",
+            "size": 254,
+            "lmtime": 1523188426941,
+            "modified": false
+          }
+        },
+        ".viminfo": {
+          "type": "-",
+          "size": 10925,
+          "lmtime": 0,
+          "modified": false
+        }
+      }
+    }
+  },
+  "$version": 1
+}

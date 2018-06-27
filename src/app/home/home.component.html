@@ -1,0 +1,51 @@
+<div style='margin: 10px;'>
+  <mat-card>
+    <mat-card-title>Ovládání rozhlasu</mat-card-title>
+
+    <mat-card-subtitle>V následujícím formuláři lze vybrat druh události, techniku apod.</mat-card-subtitle>
+
+    <mat-card-content>
+      <mat-form-field>
+        <mat-select placeholder="Druh hlášení" [(ngModel)]="event.type">
+          <mat-option *ngFor="let eventType of eventFormData.eventTypes; index as i" [value]="i">
+            {{ eventType }}
+          </mat-option>
+        </mat-select>
+      </mat-form-field>
+
+      <div *ngIf="event.type == 0">
+
+        <mat-form-field >
+          <mat-select placeholder="Druh události" [(ngModel)]="event.alertData.type">
+            <mat-option *ngFor="let evesntDataType of eventFormData.eventDataTypes; index as i" [value]="i">
+              {{ eventDataType }}
+            </mat-option>
+          </mat-select>
+        </mat-form-field>
+
+        <div *ngIf="event.alertData.type !== undefined">
+
+        <p>Technika</p>
+
+          <mat-selection-list [(ngModel)]="event.alertData.cars">
+            <mat-list-option *ngFor="let eventCar of eventFormData.eventCars; index as i" [value]="i" style="font-size: 14px;">
+              {{eventCar}}
+            </mat-list-option>
+          </mat-selection-list>
+        </div>
+      </div>
+
+      <div *ngIf="(event.type == 0 && event.alertData.type !== undefined) || event.type == 1">
+        <mat-divider [inset]=true></mat-divider>
+        <mat-slide-toggle [(ngModel)]="allowSubmit">Povolit vyhlášení poplachu</mat-slide-toggle>
+      </div>
+
+      <div *ngIf="(event.type !== undefined && event.type !== 0) || event.alertData.type !== undefined">
+        <mat-divider [inset]=true></mat-divider>
+
+        <button mat-raised-button (click)="submit()" [color]="eventFormData.buttons[event.type].primary.color" [disabled]="!allowSubmit" *ngIf="eventFormData.buttons[event.type].primary.show">{{ eventFormData.buttons[event.type].primary.text }}</button>
+        <button mat-raised-button (click)="submitTest()" [color]="eventFormData.buttons[event.type].secondary.color" *ngIf="eventFormData.buttons[event.type].secondary.show">{{ eventFormData.buttons[event.type].secondary.text }}</button>
+      </div>
+    </mat-card-content>
+  </mat-card>
+</div>
