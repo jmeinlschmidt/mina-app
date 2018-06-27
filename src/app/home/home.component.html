@@ -17,7 +17,7 @@
 
         <mat-form-field >
           <mat-select placeholder="Druh události" [(ngModel)]="event.alertData.type">
-            <mat-option *ngFor="let evesntDataType of eventFormData.eventDataTypes; index as i" [value]="i">
+            <mat-option *ngFor="let eventDataType of eventFormData.eventDataTypes; index as i" [value]="i">
               {{ eventDataType }}
             </mat-option>
           </mat-select>
