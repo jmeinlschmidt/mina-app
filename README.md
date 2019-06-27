@@ -3,4 +3,4 @@ Web application for mina system. Mina system is a very light-weight system for t
 ## Preview
 ![preview][preview]
 
-[preview]: https://raw.githubusercontent.com/jmeinlschmidt/mina-app/master/mina-app-1.PNG "Logo Title Text 2"
+[preview]: https://github.com/jmeinlschmidt/mina-app/blob/master/animation.gif "preview"
